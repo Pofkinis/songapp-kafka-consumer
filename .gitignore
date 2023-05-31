@@ -1,0 +1,81 @@
+# Visual Studio temporary files
+.vs/
+obj/
+bin/
+
+# Resharper temporary files
+_ReSharper*/
+
+# Build results
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+*.nupkg
+*.paket.zip
+packages/
+.paket/
+.paket-files/
+paket-files/
+.paket.references
+.project.assets.json
+.project.nuget.cache
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+*.trx
+TestResults/
+
+# Build results of an MSBuild project
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc]pu/
+[Oo]ut/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Publish or deploy output
+[Pp]ublish/
+[Pp]ublished/
+obj/
+wwwroot/
+
+# Roslyn analyzer cache
+__analyzers__/
+Analyzer/ 
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.bak
+*.vspscc
+*.vssscc
+*.cache
+*.sln.docstates
+*.[Cc]ache
+*.bak
+*.resharper*
+*.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux/Mac specific files
+.vscode/
+*.swp
+*~
+.DS_Store
+.AppleDouble/
+.LSOverride
